@@ -1,0 +1,59 @@
+C:\Users\Asus\source\repos\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe.config
+C:\Users\Asus\source\repos\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe
+C:\Users\Asus\source\repos\projektPWSW\projektPWSW\bin\Debug\projektPWSW.pdb
+C:\Users\Asus\source\repos\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csprojResolveAssemblyReference.cache
+C:\Users\Asus\source\repos\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Form1.resources
+C:\Users\Asus\source\repos\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Properties.Resources.resources
+C:\Users\Asus\source\repos\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\projektPWSW\projektPWSW\obj\Debug\projektPWSW.exe
+C:\Users\Asus\source\repos\projektPWSW\projektPWSW\obj\Debug\projektPWSW.pdb
+C:\Users\winko\Desktop\Projekcik\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe.config
+C:\Users\winko\Desktop\Projekcik\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe
+C:\Users\winko\Desktop\Projekcik\projektPWSW\projektPWSW\bin\Debug\projektPWSW.pdb
+C:\Users\winko\Desktop\Projekcik\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csprojAssemblyReference.cache
+C:\Users\winko\Desktop\Projekcik\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Form1.resources
+C:\Users\winko\Desktop\Projekcik\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Properties.Resources.resources
+C:\Users\winko\Desktop\Projekcik\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csproj.GenerateResource.cache
+C:\Users\winko\Desktop\Projekcik\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csproj.CoreCompileInputs.cache
+C:\Users\winko\Desktop\Projekcik\projektPWSW\projektPWSW\obj\Debug\projektPWSW.exe
+C:\Users\winko\Desktop\Projekcik\projektPWSW\projektPWSW\obj\Debug\projektPWSW.pdb
+C:\Users\winko\Desktop\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe.config
+C:\Users\winko\Desktop\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe
+C:\Users\winko\Desktop\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.pdb
+C:\Users\winko\Desktop\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csprojAssemblyReference.cache
+C:\Users\winko\Desktop\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Form1.resources
+C:\Users\winko\Desktop\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Properties.Resources.resources
+C:\Users\winko\Desktop\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csproj.GenerateResource.cache
+C:\Users\winko\Desktop\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csproj.CoreCompileInputs.cache
+C:\Users\winko\Desktop\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.exe
+C:\Users\winko\Desktop\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.pdb
+C:\Users\Asus\Desktop\New folder (4)\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe.config
+C:\Users\Asus\Desktop\New folder (4)\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe
+C:\Users\Asus\Desktop\New folder (4)\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.pdb
+C:\Users\Asus\Desktop\New folder (4)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\New folder (4)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Form1.resources
+C:\Users\Asus\Desktop\New folder (4)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Properties.Resources.resources
+C:\Users\Asus\Desktop\New folder (4)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\New folder (4)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\New folder (4)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.exe
+C:\Users\Asus\Desktop\New folder (4)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.pdb
+F:\UTP\Semestr 5\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe.config
+F:\UTP\Semestr 5\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe
+F:\UTP\Semestr 5\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.pdb
+F:\UTP\Semestr 5\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csprojAssemblyReference.cache
+F:\UTP\Semestr 5\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Form1.resources
+F:\UTP\Semestr 5\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Properties.Resources.resources
+F:\UTP\Semestr 5\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csproj.GenerateResource.cache
+F:\UTP\Semestr 5\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csproj.CoreCompileInputs.cache
+F:\UTP\Semestr 5\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.exe
+F:\UTP\Semestr 5\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.pdb
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csprojAssemblyReference.cache
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Form1.resources
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Properties.Resources.resources
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.csproj.GenerateResource.cache
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.exe
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.pdb
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe.config
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.pdb

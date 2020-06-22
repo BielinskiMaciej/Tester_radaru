@@ -1,0 +1,9 @@
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe.config
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.exe
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\bin\Debug\projektPWSW.pdb
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\TesterRadaru.csprojAssemblyReference.cache
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Form1.resources
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.Properties.Resources.resources
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\TesterRadaru.csproj.GenerateResource.cache
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.exe
+C:\Users\Maciej\Downloads\Projekcik — kopia (2)\Projekcik — kopia (2)\projektPWSW\projektPWSW\obj\Debug\projektPWSW.pdb
